@@ -37,14 +37,14 @@ const TaskList = () => {
         <div className='flex justify-between items-center'>
             <h3 className='bg-red-600 text-sm px-3 py-1 rounded'>High</h3>
         <h4 className='text-sm'>20 March 2025</h4></div>
-        <h2 className='mt-5 text-2xl font-semibold'>Make a youtube video</h2>
+        <h2 className='mt-5 text-2xl font-semibold'>Make a React project</h2>
         <p className='text-sm mt-2'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum doloremque modi, quibusdam maxime dolores ullam.</p>
       </div>
       <div className='flex-shrink-0 h-full w-[300px] bg-gray-400 p-5 rounded-xl'>
         <div className='flex justify-between items-center'>
             <h3 className='bg-red-600 text-sm px-3 py-1 rounded'>High</h3>
         <h4 className='text-sm'>20 March 2025</h4></div>
-        <h2 className='mt-5 text-2xl font-semibold'>Make a youtube video</h2>
+        <h2 className='mt-5 text-2xl font-semibold'>Explore new things</h2>
         <p className='text-sm mt-2'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum doloremque modi, quibusdam maxime dolores ullam.</p>
       </div>
       
